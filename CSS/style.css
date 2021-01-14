@@ -1,0 +1,39 @@
+
+
+ div ul h1{
+
+    font-family: 'IBM Plex Serif', serif;
+
+}
+
+html, body, table,tr,th,label,form,a,input{
+
+    font-family: 'IBM Plex Serif', serif;
+    padding-left: 10px;
+    padding-right: 5px;
+
+}
+
+
+th,tr,td{
+
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
+th{
+
+    background-color: blueviolet;
+    color:white;
+
+}
+
